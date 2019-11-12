@@ -11,8 +11,10 @@ public class Main {
 	    System.out.println("Edycja przez współpracownika!!");
 
 	    //konflikt rozwiązany
-	   
 
-	// write your code here
+        System.out.println("nowa funkcjonalnośćprojektu");
+
+
+        // write your code here
     }
 }
